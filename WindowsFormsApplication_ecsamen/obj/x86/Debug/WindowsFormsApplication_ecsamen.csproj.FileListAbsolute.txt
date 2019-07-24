@@ -1,0 +1,11 @@
+c:\users\lehai\documents\visual studio 2010\Projects\WindowsFormsApplication_ecsamen\WindowsFormsApplication_ecsamen\obj\x86\Debug\WindowsFormsApplication_ecsamen.Form_Instruction.resources
+c:\users\lehai\documents\visual studio 2010\Projects\WindowsFormsApplication_ecsamen\WindowsFormsApplication_ecsamen\obj\x86\Debug\WindowsFormsApplication_ecsamen.Form_Main.resources
+c:\users\lehai\documents\visual studio 2010\Projects\WindowsFormsApplication_ecsamen\WindowsFormsApplication_ecsamen\obj\x86\Debug\WindowsFormsApplication_ecsamen.Form_Zayavka.resources
+c:\users\lehai\documents\visual studio 2010\Projects\WindowsFormsApplication_ecsamen\WindowsFormsApplication_ecsamen\obj\x86\Debug\WindowsFormsApplication_ecsamen.Properties.Resources.resources
+c:\users\lehai\documents\visual studio 2010\Projects\WindowsFormsApplication_ecsamen\WindowsFormsApplication_ecsamen\obj\x86\Debug\WindowsFormsApplication_ecsamen.csproj.GenerateResource.Cache
+c:\users\lehai\documents\visual studio 2010\Projects\WindowsFormsApplication_ecsamen\WindowsFormsApplication_ecsamen\bin\Debug\WindowsFormsApplication_ecsamen.exe
+c:\users\lehai\documents\visual studio 2010\Projects\WindowsFormsApplication_ecsamen\WindowsFormsApplication_ecsamen\bin\Debug\WindowsFormsApplication_ecsamen.pdb
+c:\users\lehai\documents\visual studio 2010\Projects\WindowsFormsApplication_ecsamen\WindowsFormsApplication_ecsamen\bin\Debug\MySql.Data.dll
+c:\users\lehai\documents\visual studio 2010\Projects\WindowsFormsApplication_ecsamen\WindowsFormsApplication_ecsamen\obj\x86\Debug\WindowsFormsApplication_ecsamen.csprojResolveAssemblyReference.cache
+c:\users\lehai\documents\visual studio 2010\Projects\WindowsFormsApplication_ecsamen\WindowsFormsApplication_ecsamen\obj\x86\Debug\WindowsFormsApplication_ecsamen.exe
+c:\users\lehai\documents\visual studio 2010\Projects\WindowsFormsApplication_ecsamen\WindowsFormsApplication_ecsamen\obj\x86\Debug\WindowsFormsApplication_ecsamen.pdb
